@@ -7,14 +7,7 @@ thead{
   background-color: #cce6ff;
 }
 
-#paquito{
-   background-color: #ff0000 ;
-  }
-
-.high:hover {
-   background-color: #ff0000;
-  }
-
-.low {
-   color:red;
-  }
+tr:nth-child(odd) {
+     background-color: #99e6ff;
+     
+}
