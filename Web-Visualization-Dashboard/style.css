@@ -15,7 +15,7 @@ body{
     margin-left: 30px; 
     padding: inherit; 
     font-weight: bold; 
-    background-color: #0BADA6;
+    /*background-color: #0BADA6;*/
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -32,7 +32,7 @@ body{
 }
 
 a{
-    color: #6D8092;
+    /*color: #6D8092;*/
     font-size: 15px; 
 }
 
@@ -134,3 +134,4 @@ footer{
     width: 100%;
     padding-top: 15px; 
 }
+
